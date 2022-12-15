@@ -27,6 +27,7 @@ Some of the animals can be found in the Animal Kingdom faction, while the others
 | ***NUCKELAVEE*** | *Weeping Copse* | The Devil of the Sea. Wielding a swordfish lochaber, it strides into battle, throwing its spear and calling it back. Its horse half can release a foul breath, sickening enemies to death. |
 | ***PLAGUE BEARER*** | *Calderaceum* | A long-necked dinosaur with a serious illness. As the battle progresses, it gets sicker and sicker, and can spread its illness with a bloody vomit. When it dies, its sickness revives it, and it hangs on for a little longer, using its last strength to gain the ability to leap. |
 | ***GREATER DRAGON*** | *Medieval 1* | An old, experienced dragon, given life once again. From ages past it rises, with flames hot enough to scorch even giants. When angered, it takes flight, and slams down on armies below. Only the strongest of warriors may defeat it, or perhaps even the hero. To unlock it, you must defeat it yourself. |
+| ***T Rex*** | *Tribal 1* | A dinosaur that suppose to be dead but this dinosaur can bite, stomp, and thrashing. 
 
 ## Maps
 
